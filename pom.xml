@@ -7,6 +7,8 @@
 
     <modelVersion>4.0.0</modelVersion>
 
+
+
     <groupId>com.shopsphere</groupId>
     <artifactId>shopsphere-backend</artifactId>
     <version>1.0.0</version>
@@ -25,7 +27,7 @@
     </properties>
 
     <modules>
-
+        <module>discovery-server</module>
     </modules>
 
 </project>
