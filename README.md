@@ -1,4 +1,4 @@
-# ShubhMart Backend
+# shopsphere Backend
 
 Enterprise E-Commerce Backend built with Java Spring Boot Microservices.
 
